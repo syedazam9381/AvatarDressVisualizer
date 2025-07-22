@@ -1,11 +1,4 @@
-# Virtual Dress Try-On System - B.Tech Final Year Project
 
-**Student Name**: [Your Name]  
-**Roll Number**: [Your Roll Number]  
-**Branch**: Computer Science & Engineering  
-**College**: [Your College Name]  
-**Academic Year**: 2024-25  
-**Project Guide**: [Guide Name]
 
 ## 📋 Project Overview
 
